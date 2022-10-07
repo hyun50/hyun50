@@ -5,7 +5,7 @@
 "#" 글자크리를 나타낸다.
 "# ~####" "#"이 가장 큰 글씨이다.
 
- : 이코티콘 참조
+:sparkles: : 이코티콘 참조
  https://www.webfx.com/tools/emoji-cheat-sheet/
  
  [내용](링크) : 연결되는 페이지가 나타난다.
