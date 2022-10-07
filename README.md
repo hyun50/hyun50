@@ -1,7 +1,8 @@
 # 나의 코딩 공부
   
-  작고 꾸준하게.
-(https://user-images.githubusercontent.com/112919014/194450128-fea4d7b1-32b0-4bb5-9bbc-34ca0199c37a.jpg)
+  작고 꾸준하게
+  
+![initial](https://user-images.githubusercontent.com/112919014/194450128-fea4d7b1-32b0-4bb5-9bbc-34ca0199c37a.jpg)
 ## 참고한 책
 
  * [파이썬 300제] (https://wikidocs.net/book/922)
