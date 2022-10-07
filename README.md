@@ -11,6 +11,7 @@
  [내용](링크) : 연결되는 페이지가 나타난다.
  
  [파이썬 300제] (https://wikidocs.net/book/922)
+ 
  [파이썬 기본부터 딥러닝 입문하기] (https://wikidocs.net/book/7991)
 
 <!--
