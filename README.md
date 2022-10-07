@@ -2,9 +2,9 @@
 
 ## 참고한 책
 
- [파이썬 300제] (https://wikidocs.net/book/922)
+ * [파이썬 300제] (https://wikidocs.net/book/922)
  
- [파이썬 기본부터 딥러닝 입문하기] (https://wikidocs.net/book/7991)
+ * [파이썬 기본부터 딥러닝 입문하기] (https://wikidocs.net/book/7991)
 
 ### 나의 데이터 분석
 ⚡ 내용 : 타이타닉 데이터 분석, 시각화 예재 <br>
