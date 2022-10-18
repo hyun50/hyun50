@@ -5,9 +5,11 @@
 ![initial](https://user-images.githubusercontent.com/112919014/194450128-fea4d7b1-32b0-4bb5-9bbc-34ca0199c37a.jpg)
 ## 참고한 책
 
- * [파이썬 300제] (https://wikidocs.net/book/922)
+ * [파이썬 300제] (https://wikidocs.net/book/922)<br>
+ * [점프 투 파이썬](https://wikidocs.net/book/1)<br>
+ * [파이썬 기본부터 딥러닝 입문하기] (https://wikidocs.net/book/7991)<br>
  
- * [파이썬 기본부터 딥러닝 입문하기] (https://wikidocs.net/book/7991)
+
 
 ### 나의 데이터 분석(1)
 ⚡ 내용 : 타이타닉 데이터 분석, 시각화 예재 <br>
