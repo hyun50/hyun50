@@ -8,6 +8,8 @@
  * [파이썬 300제] (https://wikidocs.net/book/922)<br>
  * [점프 투 파이썬] (https://wikidocs.net/book/1)<br>
  * [파이썬 기본부터 딥러닝 입문하기] (https://wikidocs.net/book/7991)<br>
+
+## 참고한 블로그
  
 
 
