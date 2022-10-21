@@ -32,7 +32,7 @@
 
 ### 나의 프로젝트
 ⚡ 내용 : 사진에서 균열찾기 <br>
-😄 해당 저장소로 [이동하기](https://github.com/hyun50/MyDataAna) 
+😄 해당 저장소로 [이동하기](https://github.com/hyun50/Homework) 
 
 
 <!--
