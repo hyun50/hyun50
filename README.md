@@ -30,6 +30,10 @@
 ⚡ 내용 : 타이타닉 데이터 분석, 시각화 예재 <br>
 😄 해당 저장소로 [이동하기](https://github.com/hyun50/MyDataAna) 
 
+### 나의 프로젝트
+⚡ 내용 : 사진에서 균열찾기 <br>
+😄 해당 저장소로 [이동하기](https://github.com/hyun50/MyDataAna) 
+
 
 <!--
 **hyun50/hyun50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
