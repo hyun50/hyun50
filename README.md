@@ -30,7 +30,7 @@
 😄 해당 저장소로 [이동하기](https://github.com/hyun50/Homework) 
 
 ### 나의 프로젝트 [2]
-⚡ 내용 : 사진에서 균열찾기 <br>
+⚡ 내용 : 대형사진 분할 및 저장하기 <br>
 😄 해당 저장소로 [이동하기](https://github.com/hyun50/Homework) 
 
 <!--
