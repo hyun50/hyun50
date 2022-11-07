@@ -13,7 +13,8 @@
  * [파이썬 기본부터 딥러닝 입문하기] (https://wikidocs.net/book/7991)<br>
 
 ## 참고한 블로그
- 
+:sparkles: : 이티콘 참조
+ https://www.webfx.com/tools/emoji-cheat-sheet/ 
 
 
 ### 나의 데이터 분석(1)
@@ -24,10 +25,13 @@
 ⚡ 내용 : 타이타닉 데이터 분석, 시각화 예제 <br>
 😄 해당 저장소로 [이동하기](https://github.com/hyun50/MyDataAna) 
 
-### 나의 프로젝트
+### 나의 프로젝트 [1]
 ⚡ 내용 : 사진에서 균열찾기 <br>
 😄 해당 저장소로 [이동하기](https://github.com/hyun50/Homework) 
 
+### 나의 프로젝트 [2]
+⚡ 내용 : 사진에서 균열찾기 <br>
+😄 해당 저장소로 [이동하기](https://github.com/hyun50/Homework) 
 
 <!--
 **hyun50/hyun50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,7 +50,4 @@ Here are some ideas to get you started:
 "#" 글자크리를 나타낸다.
 "# ~####" "#"이 가장 큰 글씨이다.
 
-:sparkles: : 이티콘 참조
- https://www.webfx.com/tools/emoji-cheat-sheet/
- 
  [내용](링크) : 연결되는 페이지가 나타난다.
